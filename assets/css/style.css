@@ -1,0 +1,34 @@
+body {
+ 	background-image: url(../images/congruent_outline.png);
+	color: white;
+}
+
+h1, #crystals {
+	text-align: center;
+}
+
+h1 {
+	margin-bottom: 20px;
+}
+
+h3 {
+	margin-left: 10px;
+}
+
+#crystals {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.crystal-image {
+	margin: 10px;
+}
+
+#rules,  #game{
+	border: 1px solid white;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+}
